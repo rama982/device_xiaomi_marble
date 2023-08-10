@@ -4,7 +4,7 @@ persist.bluetooth.a2dp_offload.disabled=true
 ro.bluetooth.a2dp_offload.supported=false
 
 # Camera
-vendor.camera.aux.packagelist=org.lineageos.aperture
+vendor.camera.aux.packagelist=org.lineageos.aperture,com.voltage.flash
 
 # DPM
 persist.vendor.dpm.feature=1

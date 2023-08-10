@@ -151,6 +151,7 @@ DEVICE_PACKAGE_OVERLAYS += \
 PRODUCT_PACKAGES += \
     AospWifiResOverlayMarble \
     CarrierConfigResCommon \
+    FlashOverlay \
     FrameworksResCommon \
     FrameworksResOverlayMarble \
     SettingsOverlayMarble \
