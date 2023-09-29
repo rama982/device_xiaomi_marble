@@ -1,2 +1,1 @@
-# Camera
 type hal_xiaomi_camera_hwservice, hwservice_manager_type;
